@@ -22,6 +22,7 @@ print(x.imag)
 ```
 
 ## Output
+<img width="821" height="431" alt="image" src="https://github.com/user-attachments/assets/8454fec7-48ac-4bd3-b96a-7aa2045d9a11" />
 
 ## Result
 Thus, the program as been executed successfully.
